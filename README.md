@@ -32,17 +32,17 @@
 * `apt-get update -y`
 * `apt-get upgrade -y`
 * `pkg install python -y`
-* `pkg install python2 -y`
+* `pkg install python3 -y`
 * `pkg install git -y`
 * `pip install lolcat`
 * `pip install requests`
-* `git clone `
+* `git clone https://github.com/Tusharvoid/JUMBo.git`
 * `cd $HOME`
 * `ls`
-* `cd jumbo`
+* `cd JUMBo`
 * `ls`
-* `pip2 install requirements.txt`
-* ` bash `
+* `pip3 install requirements.txt`
+* ` bash jumbo.sh`
 
 
 ## INSTALLATION [Kali Linux] :
@@ -50,17 +50,17 @@
 * `apt-get update -y`
 * `apt-get upgrade -y`
 * `sudo pkg install python -y`
-* `sudo pkg install python2 -y`
+* `sudo pkg install python3 -y`
 * `sudo pkg install git -y`
 * `sudo pip install lolcat`
 * `sudo pip install requests`
-* `git clone https://github.com/Incredible-Hacker/TBomb2.0`
+* `git clone https://github.com/Tusharvoid/JUMBo.git`
 * `cd`
 * `ls`
-* `cd TBomb2.0`
+* `cd JUMBo`
 * `ls`
-* `sudo pip2 install requirements.txt`
-* `./TBomb2.0.sh`
+* `sudo pip3 install requirements.txt`
+* `./jumbo.sh`
 
     
 

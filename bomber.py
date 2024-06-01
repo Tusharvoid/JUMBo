@@ -84,9 +84,9 @@ def format_phone(num):
     num = [n for n in num if n in string.digits]
     return ''.join(num).strip()
 
-#remoove this 
+#
 
-#till this 
+#
 
 def get_phone_info():
     while True:
