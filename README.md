@@ -64,5 +64,6 @@
 
     
 
+![Screenshot_20240601_125128](https://github.com/Tusharvoid/JUMBo/assets/70802073/15cad3e9-7de4-44c4-a960-6aa6e3926d5b)
 
 
